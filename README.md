@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size: 42px; font-weight: bold; margin-bottom: 20px;">
-  Evolving from Unknown to Known: Retentive Angular Representation Learning for Incremental Open Set Recognition (ICCVW25)
+  Evolving from Unknown to Known: Retentive Angular Representation Learning for Incremental Open Set Recognition (ICCVW'25)
 </h1>
 
 
@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=论文核心图" alt="论文核心示意图" width="800"/>
+  <img src="Figure3.png" alt="figure3" width="800"/>
 </p>
 
-<p align="center" style="font-size: 18px;">
-  本研究得到国家自然科学基金(No.12345678)的支持，相关代码已开源。
+<p align="left" style="font-size: 18px;">
+  This is the code implementation of "Evolving from Unknown to Known: Retentive Angular Representation Learning for Incremental Open Set Recognition"(https://arxiv.org/abs/2509.06570). The specific code will be uploaded after the paper is published.
 </p>
